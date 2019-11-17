@@ -1,0 +1,22 @@
+/* none of this seems to do anything just yet, but i'm leaving it here to work on in the future */
+.col-md-6 {
+    margin-left: ($spacer * .25) !important;
+  }
+
+  .col-md-6 {
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
+  }
+  
+  .col-md-3 {
+    margin-left: ($spacer * .25) !important;
+  }
+
+  .col-md-3 {
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
+  }
+
+.container-fluid {
+    padding: 5%;
+}
